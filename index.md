@@ -2,5 +2,7 @@
 
 Our team is diverse anc commited.
 
-[Link](url) and ![Image](src)
+ ![image2.png](image2.png)
+  ![image2.png](image1.png)
+
 ```
